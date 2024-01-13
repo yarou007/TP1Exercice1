@@ -1,0 +1,14 @@
+C:\Users\21655\source\repos\TP1Exercice1\TP1Exercice1\bin\Debug\net8.0\TP1Exercice1.exe
+C:\Users\21655\source\repos\TP1Exercice1\TP1Exercice1\bin\Debug\net8.0\TP1Exercice1.deps.json
+C:\Users\21655\source\repos\TP1Exercice1\TP1Exercice1\bin\Debug\net8.0\TP1Exercice1.runtimeconfig.json
+C:\Users\21655\source\repos\TP1Exercice1\TP1Exercice1\bin\Debug\net8.0\TP1Exercice1.dll
+C:\Users\21655\source\repos\TP1Exercice1\TP1Exercice1\bin\Debug\net8.0\TP1Exercice1.pdb
+C:\Users\21655\source\repos\TP1Exercice1\TP1Exercice1\obj\Debug\net8.0\TP1Exercice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\21655\source\repos\TP1Exercice1\TP1Exercice1\obj\Debug\net8.0\TP1Exercice1.AssemblyInfoInputs.cache
+C:\Users\21655\source\repos\TP1Exercice1\TP1Exercice1\obj\Debug\net8.0\TP1Exercice1.AssemblyInfo.cs
+C:\Users\21655\source\repos\TP1Exercice1\TP1Exercice1\obj\Debug\net8.0\TP1Exercice1.csproj.CoreCompileInputs.cache
+C:\Users\21655\source\repos\TP1Exercice1\TP1Exercice1\obj\Debug\net8.0\TP1Exercice1.dll
+C:\Users\21655\source\repos\TP1Exercice1\TP1Exercice1\obj\Debug\net8.0\refint\TP1Exercice1.dll
+C:\Users\21655\source\repos\TP1Exercice1\TP1Exercice1\obj\Debug\net8.0\TP1Exercice1.pdb
+C:\Users\21655\source\repos\TP1Exercice1\TP1Exercice1\obj\Debug\net8.0\TP1Exercice1.genruntimeconfig.cache
+C:\Users\21655\source\repos\TP1Exercice1\TP1Exercice1\obj\Debug\net8.0\ref\TP1Exercice1.dll
